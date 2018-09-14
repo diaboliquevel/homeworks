@@ -5,7 +5,7 @@
 - религиозная этика
 + патристика
 - философия искусства
-![] (http://opisanie-kartin.com/pictures/15/image029.jpg)
+![](http://opisanie-kartin.com/pictures/15/image029.jpg)
 **№**|**Описание**|**Ссылка на работу**
 ---|:---------------:|---:
 1||
