@@ -10,6 +10,6 @@
 
 **№** | **Описание** | **Ссылка на работу**
 ---|:---:|---:
-**1**|домашка №1|[HW1](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW1.ipynb)
+**1**|домашка №1|[*HW1*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW1.ipynb)
 **2**|.|
 **3**|.|
