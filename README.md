@@ -11,5 +11,5 @@
 **№** | **Описание** | **Ссылка на работу**
 ---|:---:|---:
 **1**|домашка №1|[*HW1*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW1.ipynb)
-**2**|домашка №2|[*HW1*] 
+**2**|домашка №2|[*HW2*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW2.ipynb)
 **3**|.|
