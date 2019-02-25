@@ -10,7 +10,7 @@
 
 **№** | **Описание** | **Ссылка на работу**
 ---|:---:|---:
-**1**|домашка №1|[*HW1*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW1.ipynb)
-**2**|домашка №2|[*HW2*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW2.ipynb)
-**3**|домашка №3|[*HW3*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW3.ipynb)
-**4**|домашка №4|[*HW4*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW4.ipynb)
+**1**|Expressions & Conditionals|[*HW1*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW1.ipynb)
+**2**|Strings & List Comprehensions|[*HW2*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW2.ipynb)
+**3**|Basic NLP & Mystem|[*HW3*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW3.ipynb)
+**4**|NLTK & Matplotlib|[*HW4*](https://github.com/diaboliquevel/python-dh-hw/blob/master/HW4.ipynb)
